@@ -1,0 +1,95 @@
+{
+  "cars": [
+    {
+      "name": "",
+      "type": "Baleno",
+      "year": "2019",
+      "price": "5000000",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/2d815c9e-2f42-4fdd-b312-1949b80810f7/bvlatuR/std/520x501/Roadster_01?lcid=aed08877-ce08-416f-a384-e57e8449ead7&v=12&dpr=125",
+      "carname": "Tata",
+      "id": "7486c267-2402-4cf3-8a4a-3264e05ea7f4"
+    },
+    {
+      "carname": "Tesla",
+      "type": "CyberTruck",
+      "year": "2020",
+      "price": "6000000",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/f756f38a-3f8c-42fd-a2ed-55f1b034397b/bvlatuR/std/520x501/Cybertruck_01?lcid=4dff9d2a-f5b2-42d1-b716-fe6eccb43422&v=25&dpr=125",
+      "id": "b13de4ea-9113-41ff-ba78-b084301350cd"
+    },
+    {
+      "carname": "Tesla",
+      "type": "CyberTruck Second",
+      "year": "2020",
+      "price": "6000000",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/f756f38a-3f8c-42fd-a2ed-55f1b034397b/bvlatuR/std/520x501/Cybertruck_01?lcid=4dff9d2a-f5b2-42d1-b716-fe6eccb43422&v=25&dpr=125",
+      "id": "3be85556-86dc-4f27-9f20-c20264ff08c6"
+    },
+    {
+      "carname": "Tesla",
+      "type": "Model 3",
+      "year": "2021",
+      "price": "800000",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/0c35708b-004c-457b-a6dd-6fd31a10895e/bvlatuR/std/520x501/model3_01?lcid=1e84026d-2319-4378-b5bd-22fa4c980c22&v=45&dpr=125",
+      "id": "294fb8e4-df7f-421e-8ad2-2cfc94ed3854"
+    },
+    {
+      "carname": "Tesla",
+      "type": "Model Y",
+      "year": "2017",
+      "price": "700000",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/4d297842-533c-4196-b7ba-db3bf4031c9f/bvlatuR/std/520x501/ModelY_01?lcid=6092d5ae-105b-46f0-9422-6cfd2a72a328&v=25&dpr=125",
+      "id": "09ef5c7b-006d-4fff-9c3a-f106425e21eb"
+    },
+    {
+      "carname": "Tesla",
+      "type": "Semi",
+      "year": "2015",
+      "price": "9000000",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/4408f986-30fe-42e8-a027-a74c2ad47d84/bvlatuR/std/520x501/Semi_01?lcid=d5e8a89a-9a87-42e1-84bc-59fdf1d11d81&v=25&dpr=125",
+      "id": "01397350-b9e8-4c0f-8a0d-b1d122ce738e"
+    },
+    {
+      "carname": "Tesla",
+      "type": "Group",
+      "year": "2014",
+      "price": "787878",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/e52ac7f4-e926-4da2-8234-c9cf8713cd2c/bvlatuR/std/520x501/group_01?lcid=4a5cb889-1b1e-4e77-92f8-85b5433349da&v=38&dpr=125",
+      "id": "f3cfddfb-c170-4fcb-b501-897dbbc6775f"
+    },
+    {
+      "carname": "Tesla",
+      "type": "Group",
+      "year": "2014",
+      "price": "787878",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/e52ac7f4-e926-4da2-8234-c9cf8713cd2c/bvlatuR/std/520x501/group_01?lcid=4a5cb889-1b1e-4e77-92f8-85b5433349da&v=38&dpr=125",
+      "id": "5575bdb6-2e40-489d-b899-4eb72bae0140"
+    }
+  ],
+  "orders": [
+    {
+      "carname": "Tesla",
+      "type": "CyberTruck",
+      "year": "2020",
+      "price": "6000000",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/f756f38a-3f8c-42fd-a2ed-55f1b034397b/bvlatuR/std/520x501/Cybertruck_01?lcid=4dff9d2a-f5b2-42d1-b716-fe6eccb43422&v=25&dpr=125",
+      "id": "b13de4ea-9113-41ff-ba78-b084301350cd"
+    },
+    {
+      "carname": "Tesla",
+      "type": "Model 3",
+      "year": "2021",
+      "price": "800000",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/0c35708b-004c-457b-a6dd-6fd31a10895e/bvlatuR/std/520x501/model3_01?lcid=1e84026d-2319-4378-b5bd-22fa4c980c22&v=45&dpr=125",
+      "id": "294fb8e4-df7f-421e-8ad2-2cfc94ed3854"
+    },
+    {
+      "carname": "Tesla",
+      "type": "Semi",
+      "year": "2015",
+      "price": "9000000",
+      "imageUrl": "https://tesla-cdn.thron.com/delivery/public/thumbnail/tesla/4408f986-30fe-42e8-a027-a74c2ad47d84/bvlatuR/std/520x501/Semi_01?lcid=d5e8a89a-9a87-42e1-84bc-59fdf1d11d81&v=25&dpr=125",
+      "id": "01397350-b9e8-4c0f-8a0d-b1d122ce738e"
+    }
+  ]
+}
